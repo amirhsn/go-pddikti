@@ -1,4 +1,6 @@
 [![Library Status](https://img.shields.io/badge/status-unofficial-yellow.svg)]()
+[![Go Reference](https://pkg.go.dev/badge/github.com/amirhsn/go-pddikti.svg)](https://pkg.go.dev/github.com/amirhsn/go-pddikti)
+[![Go Report Card](https://goreportcard.com/badge/github.com/amirhsn/go-pddikti)](https://goreportcard.com/report/github.com/amirhsn/go-pddikti)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # go-pddikti
