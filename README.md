@@ -1,5 +1,6 @@
 [![Library Status](https://img.shields.io/badge/status-unofficial-yellow.svg)]()
 [![Go Reference](https://pkg.go.dev/badge/github.com/amirhsn/go-pddikti.svg)](https://pkg.go.dev/github.com/amirhsn/go-pddikti)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/SuXpiutwUAwz2BNZzRRKkD/XPgeTRMpJUSZez3EfuB17U/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/SuXpiutwUAwz2BNZzRRKkD/XPgeTRMpJUSZez3EfuB17U/tree/main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/amirhsn/go-pddikti)](https://goreportcard.com/report/github.com/amirhsn/go-pddikti)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
